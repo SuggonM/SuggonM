@@ -9,6 +9,7 @@ My programming journey began in 2024 with javascript, back when I was just a fre
 
 Dynamically typed languages are "my type" (except PHP… not really proud of that one)
 
-In free time, I like listening to tech talks and podcasts on youtube
+In free time, I like listening to tech talks and podcasts on youtube.
 
-As of today, I've jumped ship from <img src="https://github.com/microsoft.png" alt="" height="18" valign="middle"> wind*ws to <img src="https://github.com/ubuntu.png" alt="" height="18" valign="middle"> [Ubuntu](https://github.com/ubuntu) (Linux). Although, I'd still be thanking microsoft's [WSL terminal](https://github.com/microsoft/WSL) (which uses <img src="https://github.com/ubuntu.png" alt="Ubuntu" height="18" valign="middle">) for making the jump easier
+2025 was *my* [Year of the Linux Desktop](https://yearofthelinuxdesktop.net), [thanks to PewDiePie](https://youtu.be/pVI_smLgTY0). [<img src="https://github.com/ubuntu.png" alt="" height="18" valign="top" style="vertical-align: top;">](https://github.com/ubuntu) Ubuntu got me hooked on Linux, and a year later I moved to a manual [<img src="https://github.com/archlinux.png" alt="" height="18" valign="top" style="vertical-align: top;">](https://github.com/archlinux) Arch install. I use Arch, btw.
+
